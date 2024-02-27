@@ -1,0 +1,10 @@
+INSERT INTO client (name, cpf, income, birth_date, children) VALUES ('John Doe', '11122233344', 7000.0, '1985-05-15', 1);
+INSERT INTO client (name, cpf, income, birth_date, children) VALUES ('Alice Johnson', '55566677788', 8000.0, '1992-08-27', 0);
+INSERT INTO client (name, cpf, income, birth_date, children) VALUES ('Robert Smith', '99988877766', 6000.0, '1980-03-10', 3);
+INSERT INTO client (name, cpf, income, birth_date, children) VALUES ('Emily White', '12378945601', 9000.0, '1988-11-02', 2);
+INSERT INTO client (name, cpf, income, birth_date, children) VALUES ('Daniel Brown', '98765432100', 7500.0, '1995-06-18', 1);
+INSERT INTO client (name, cpf, income, birth_date, children) VALUES ('Sophia Lee', '12345678912', 8500.0, '1983-09-05', 4);
+INSERT INTO client (name, cpf, income, birth_date, children) VALUES ('Ethan Taylor', '55555555555', 7200.0, '1991-04-30', 0);
+INSERT INTO client (name, cpf, income, birth_date, children) VALUES ('Olivia Martin', '77777777777', 6800.0, '1987-07-22', 2);
+INSERT INTO client (name, cpf, income, birth_date, children) VALUES ('Aiden Anderson', '33333333333', 8200.0, '1994-01-14', 1);
+INSERT INTO client (name, cpf, income, birth_date, children) VALUES ('Mia Garcia', '44444444444', 7800.0, '1989-12-07', 3);
